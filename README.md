@@ -1,0 +1,1 @@
+Converter is an image conversion tool that uses the prompter_jcb package.
